@@ -16,9 +16,13 @@ dentro da física até simulações de cunho social e tecnológico.
 
 Meu objetivo é estudar e reunir neste repositório arquivos, referências e projetos pessoais de aplicações e estudos referente a esta área.
 
-<h2 align ="center"> SObre a Física Estatística 🤔</h2>
+<h2 align ="center"> Sobre a Física Estatística 🤔</h2>
 
 É uma área muito importante e com diversas aplicações. O foco é utilizar de metodologias da probabilidade para obter conhecimento de eventos que envolvam muitos entes. 
 Utilizando como ferramente padrão as simulações computacionais estudamos o que ocorre em contextos não determinísticos, nos baseamos em modelos e com algumas regras 
 e conhecimentos específicos conseguimos obter conhecimentos do contexto futuro. **Previsão de picos de contaminação, chuvas e queimadas, otimizações, e outras situações
 com inúmeros envolvidos** são aplicações desta área.
+
+
+<h2 align ="left"> <b>Monte Carlo:<b> </h2>
+Método de simulação baseada em probabilidade de acontecimento. Com este método é possível calcular áreas, estimar valores, simular átomos, dinâmica populacional e mais. É o método mais conhecido, simples e utilizado. 
