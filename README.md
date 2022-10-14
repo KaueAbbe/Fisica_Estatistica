@@ -1,5 +1,24 @@
 <h1 align="center"> Bem vinda(o) ao Física Estatística😊 </h1>
 
+# Física Estatística
+
+Estudos e resoluções de problemas utilizando conhecimentos de Física Estatística, uma área da física aplicada a diversos cenários: Materiais, Química, Biologia, Economia e Sociedade.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Titulo do meu projeto**
+| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+
+## Detalhes do projeto
+
+Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
+
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO&color=<COLOR>)
 
 <h2 align ="center"> Objetivo do Repositório 🤔</h2>
