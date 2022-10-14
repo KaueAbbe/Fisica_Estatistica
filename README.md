@@ -10,8 +10,6 @@ Estudos e resoluções de problemas utilizando conhecimentos de Física Estatís
 | :label: Tecnologias | Python
 | :rocket: URL         | https://github.com/KaueAbbe/Fisica_Estatistica
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 ## Detalhes do projeto
 
